@@ -29,4 +29,4 @@ To download our dataset release for the Holistic Video Understanding workshop in
 git clone -b iccv2019 --depth 1 git@github.com:holistic-video-understanding/Mini-HVU.git
 ```
 ## Usage
-We store the vidoe urls from Youtube and their annotations in CSV format.
+We store the vidoe IDs from Youtube and their annotations in CSV format.
