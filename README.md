@@ -30,4 +30,6 @@ git clone -b iccv2019 --depth 1 git@github.com:holistic-video-understanding/Mini
 ```
 ## Usage
 We store the video IDs from Youtube and their annotations in CSV format.
-Check [HVU downloader instruction](https://github.com/holistic-video-understanding/HVU-Downloader) to download the dataset.
+
+## Dataset Downloader
+Check [HVU downloader instruction](https://github.com/holistic-video-understanding/HVU-Downloader) for easy way to download HVU.
