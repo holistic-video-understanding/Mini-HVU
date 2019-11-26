@@ -8,7 +8,7 @@ If you use our dataset, please cite our paper.
 
 ```latex
 @article{hvu2019,
-  title={Holistic Large Scale Video Understanding},
+  title={Large Scale Holistic Video Understanding},
   author={Diba, Ali and Fayyaz, Mohsen and Sharma, Vivek and Paluri, Manohar and Gall, J{\"u}rgen and Stiefelhagen, Rainer and Van Gool, Luc},
   journal={arXiv preprint arXiv:1904.11451},
   year={2019}
