@@ -2,7 +2,7 @@
 
 This repository contains the Holistic Video Understanding Mini Dataset. For more information regarding the dataset please check our [paper](https://arxiv.org/abs/1904.11451). 
 
-:warning:**Note!** The provided labels for this version are machine generated. The complete version of HVU with clean and human-verified annotations will be provided in **January 2020**.
+:warning:**Note!** The provided labels for this version are machine generated. The complete version of HVU with clean and human-verified annotations will be released [here](https://github.com/holistic-video-understanding/HVU-Dataset).
 
 If you use our dataset, please cite our paper.
 
